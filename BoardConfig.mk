@@ -197,3 +197,13 @@ ALLOW_MISSING_DEPENDENCIES := true
 
 # mtk legacy fstab
 TW_LEGACY_PROCESS_FSTAB := true
+
+# SHRP Flags
+SHRP_PATH := device/realme/RMX3195
+SHRP_MAINTAINER := SeifHecker2099
+SHRP_DEVICE_CODE := RMX3195
+SHRP_REC_TYPE := Treble
+SHRP_DEVICE_TYPE := A/B
+SHRP_NOTCH := true
+SHRP_DARK := true
+SHRP_AB := true
