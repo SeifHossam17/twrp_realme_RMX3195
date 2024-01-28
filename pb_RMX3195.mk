@@ -25,7 +25,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/gsi_keys.mk)
 $(call inherit-product, vendor/pb/config/common.mk)
 
 PRODUCT_DEVICE := RMX3195
-PRODUCT_NAME := twrp_RMX3195
+PRODUCT_NAME := pb_RMX3195
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := RMX3195
 PRODUCT_MANUFACTURER := realme
